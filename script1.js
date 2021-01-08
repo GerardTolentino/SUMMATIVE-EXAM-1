@@ -12,6 +12,6 @@ function myself(firstname,lastname,age,subject)
 
 }
 
-let myself1= new myself("Gerard","Tolentino",20,"ISC2609");
+let myself1= new myself("Gerard","Tolentino",22,"ISC2609");
 myself1.introduce();
 myself1.enrolled();
